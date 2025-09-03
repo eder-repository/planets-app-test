@@ -1,11 +1,11 @@
 sealed class FailureType {
-  final String message;
   FailureType({required this.message});
 
   factory FailureType.unauthorized({required String message}) =
       _UnauthorizedFailure;
   factory FailureType.cancelled({required String message}) = _CancelledFailure;
   factory FailureType.unknown({required String message}) = _UnknownFailure;
+  final String message;
 }
 
 class _UnauthorizedFailure extends FailureType {

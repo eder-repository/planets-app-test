@@ -2,8 +2,6 @@ import 'dart:io';
 
 import 'package:planets_app_test/core/core.dart';
 import 'package:planets_app_test/core/shared/data/http/exceptions_models.dart';
-import 'package:planets_app_test/core/shared/data/http/failures/failures.dart';
-import 'package:planets_app_test/core/shared/data/http/result/result.dart';
 
 const _network = HttpRequestFailure.network();
 const _unauthorized = HttpRequestFailure.unauthorized();

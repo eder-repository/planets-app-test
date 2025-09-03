@@ -1,5 +1,4 @@
 import 'package:planets_app_test/core/core.dart';
-import 'package:planets_app_test/core/shared/data/http/constants/api_paths.dart';
 import 'package:planets_app_test/features/planets/data/data.dart';
 
 class PlanetsRemoteDatasource implements IPlanetsRemoteDatasource {

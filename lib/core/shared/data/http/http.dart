@@ -51,7 +51,6 @@ class Http {
         ),
         cancelToken: _cancelToken,
       );
-      print(_dio.options.baseUrl);
       if (_enableLogging) {
         log(
           const JsonEncoder.withIndent(' ').convert({

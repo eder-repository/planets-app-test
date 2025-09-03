@@ -3,8 +3,6 @@ import 'package:go_router/go_router.dart';
 import 'package:planets_app_test/core/core.dart';
 import 'package:planets_app_test/features/features.dart';
 import 'package:planets_app_test/features/planets/planets.dart';
-import 'package:planets_app_test/features/planets/presentatios/screens/not_found_screen.dart';
-import 'package:planets_app_test/features/planets/presentatios/screens/planet_details_screen.dart';
 import 'package:riverpod/riverpod.dart';
 
 final _navigatorKey = GlobalKey<NavigatorState>();

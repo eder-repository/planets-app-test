@@ -1,5 +1,4 @@
 import 'package:planets_app_test/core/core.dart';
-import 'package:planets_app_test/core/shared/data/http/failures/failures.dart';
 
 typedef Json = Map<String, dynamic>;
 
