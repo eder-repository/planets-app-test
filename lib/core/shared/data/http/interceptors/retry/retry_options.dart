@@ -61,8 +61,8 @@ class RetryOptions {
   Options toOptions() => Options(extra: toExtra());
 
   Options mergeIn(Options options) => options.copyWith(
-        extra: <String, dynamic>{}
-          ..addAll(options.extra ?? {})
-          ..addAll(toExtra()),
-      );
+    extra: <String, dynamic>{}
+      ..addAll(options.extra ?? {})
+      ..addAll(toExtra()),
+  );
 }
