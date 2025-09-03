@@ -1,0 +1,29 @@
+{
+    "planets_app": "Planets App",
+    "planet_details": {
+        "unfavorite": "Unfavorite",
+        "favorite": "Favorite",
+        "overview": "Overview",
+        "noDescription": "No description available for this planet.",
+        "atmosphere": "Atmosphere",
+        "fastMetrict": "Facts & Metrics",
+        "viewDetails": "View Details",
+        "searchPlaceholder": "Search planets...",
+        "orbitalDistance": "Orbital distance",
+        "equatorialRadius": "Equatorial radius",
+        "volume": "Volume",
+        "mass": "Mass",
+        "density": "Density",
+        "surfaceGravity": "Surface gravity",
+        "escapeVelocity": "Escape velocity",
+        "dayLength": "Day length",
+        "earthDays": "Earth days",
+        "yearLength": "Year length",
+        "orbitalSpeed": "Orbital speed",
+        "moons": "Moons"
+    },
+    "noFound": "No planets found.",
+    "notFoundDetails": "The planet you are looking for does not exist.",
+    "goBack": "Go back",
+    "error": "An error occurred. Please try again."
+}
