@@ -28,7 +28,7 @@ dependencies:
   responsive_builder: ^0.7.1
   riverpod: ^2.6.1
   slang: ^4.8.1
-  slang_build_runner: ^4.8.0
+  slang_build_runner: ^4.9.0
   slang_flutter: ^4.8.0
   very_good_analysis: ^9.0.0
 
